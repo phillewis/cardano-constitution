@@ -1,4 +1,4 @@
-# CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION
+# CARDANO BLOCKCHAIN CONSTITUTION
 ## PREAMBLE
 This Constitution serves to define the minimum necessary tenets and guardrails required to provide a balance between protecting the integrity of the Cardano blockchain, and the freedoms of the Cardano community wishing to contribute to or utilise the Cardano blockchain.
 
