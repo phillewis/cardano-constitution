@@ -31,7 +31,7 @@ In the event there are inconsistencies between a Cardano blockchain guardrail as
 
 ## ARTICLE II. THE CARDANO BLOCKCHAIN COMMUNITY
 ### Section 1
-The Cardano blockchain is permissionaless infrastructure that may be used by **anyone** in accordance with how it is intended to operate at any given moment, noting that its function may change over time following governance actions to enact changes in accordance with the governance process described in this Constitution.
+The Cardano blockchain is permissionless infrastructure that may be used by **anyone** in accordance with how it is intended to operate at any given moment, noting that its function may change over time following governance actions to enact changes in accordance with the governance process described in this Constitution.
 
 ## ARTICLE III. PARTICIPATORY AND DECENTRALIZED GOVERNANCE
 ### Section 1
